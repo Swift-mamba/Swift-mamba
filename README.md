@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Swift-mamba
-- 👀 I’m interested in Python and C++ development
+- 👀 I’m interested in C/C++
 - 🌱 I’m currently learning Tkinter
 - 💞️ I’m looking to collaborate on My game engine(Zone Game Engine)
 - 📫 How to reach me Don't
